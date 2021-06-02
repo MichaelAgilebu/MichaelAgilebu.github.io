@@ -1,0 +1,19 @@
+User-agent: *
+Disallow:
+
+<link rel="author" href="humans.txt" />
+
+/* TEAM */
+Your title: Michael Agilebu.
+Site: preciousagilebu@gmail.com, link to a contact form, etc.
+Twitter: your Twitter username.
+Location: Plainfield, USA.
+
+/* THANKS */
+Name: name or url
+
+/* SITE */
+Last update: YYYY/MM/DD
+Standards: HTML5, CSS3,..
+Components: Modernizr, jQuery, etc.
+Software: Software used for the development
